@@ -1,1 +1,1 @@
-//
+// fetchs all the artwork in a city or by city
