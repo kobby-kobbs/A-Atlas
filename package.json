@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mongodb": "^6.11.0",
+    "mongoose": "^8.8.3",
+    "node": "^20.18.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.2.0"
+  }
+}
